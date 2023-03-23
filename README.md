@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/beckerkadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beckerkadji" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/becker-kadji-046022217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="becker-kadji-046022217" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/knb-tutto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knb-tutto" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/knb-tutto1089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knb-tutto1089" height="30" width="40" /></a>
 <a href="https://discord.gg/kadjibecker#4237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kadjibecker#4237" height="30" width="40" /></a>
 </p>
 
