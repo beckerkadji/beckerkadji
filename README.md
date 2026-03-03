@@ -4,6 +4,7 @@
 - 💬 Ask me about **Nodejs, ReactJs, Nextjs Typescript**
 
 - 📫 How to reach me **kadjibecker@gmail.com**
+- 📫 portfolio https://beckerkadji.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
